@@ -1,6 +1,8 @@
-# Configurar a Tarefa Agendada no Windows:
+# Script em Python para Limpar credenciais do github
 
-## Agendador de Tarefas (Task Scheduler):
+## Configurar a Tarefa Agendada no Windows:
+
+### Agendador de Tarefas (Task Scheduler):
 
 ### PASSOS: 
 
